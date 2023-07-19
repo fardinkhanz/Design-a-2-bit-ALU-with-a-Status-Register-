@@ -29,6 +29,21 @@ The ALU and the Status Register are implemented using digital logic circuits and
 2. `DC_course_project.pptx`: This is documentation which includes basics, circuits, and results of the project.
 3. `DC_project.pdsprj.zip`: This is simulation file of 2-Bit ALU.
 
+### List of components
+| Component | Notation | Quantity | 
+|---|---|---|
+| AND gate | 7408 | 6 | 
+| OR gate | 7432 | 2 | 
+| NAND gate | 7400 | 2 | 
+| XOR gate | 7447 | 2 | 
+| 7 segment display | Disp | 4 |
+| 4 way DIP switch | SW1 | 5 | 
+| Common anode | CA | 4 | 
+| Wires | W | N/A | N/A |
+| Breadboard | BB | 2 or 3 |
+| LEDs | LED | 16 |
+
+
 ### Usage
 
 To use the ALU design and test its functionality, follow these steps:
@@ -37,6 +52,9 @@ To use the ALU design and test its functionality, follow these steps:
 2. Configure the operation to be performed by setting the corresponding switches.
 3. Observe the output displayed on the common anode display.
 4. Check the flags in the Status Register to determine the status of the ALU operation.
+
+### License
+This project is licensed under the MIT License.
 
 ### Acknowledgments
 
