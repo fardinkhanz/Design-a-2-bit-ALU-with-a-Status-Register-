@@ -25,11 +25,9 @@ The ALU and the Status Register are implemented using digital logic circuits and
 
 ### Repository Contents
 
-1. `alu.vhdl`: VHDL code for the 2-bit ALU and Status Register implementation.
-2. `README.md`: This readme file providing an overview of the repository.
-3. `schematic.png`: A schematic diagram illustrating the connections and components of the ALU design.
-4. `testbench.vhdl`: VHDL code for the testbench to verify the functionality of the ALU.
-5. `simulation_results.txt`: Text file containing the results of the simulation for various test cases.
+1. `README.md`: This readme file providing an overview of the repository.
+2. `DC_course_project.pptx`: This is documentation which includes basics, circuits, and results of the project.
+3. `DC_project.pdsprj.zip`: This is simulation file of 2-Bit ALU.
 
 ### Usage
 
